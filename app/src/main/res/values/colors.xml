@@ -1,0 +1,5 @@
+<resources>
+    <color name="selected_color">#FF4081</color> <!-- Color para el estado seleccionado -->
+    <color name="default_color">#424242</color> <!-- Color para el estado normal -->
+    <!-- Otros colores -->
+</resources>

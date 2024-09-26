@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">clase24 septiembre</string>
+    <string name="male" />
+    <string name="female" />
+    <string name="decrease_weight" />
+    <string name="increase_weight" />
+    <string name="decrease_age" />
+    <string name="increase_age" />
+</resources>
